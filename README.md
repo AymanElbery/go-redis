@@ -6,4 +6,5 @@
 
 
 # go-redis
-Working with Redis in Go
+Working with Redis in Go 
+ run `go run main.go` to set album to redis and get it in terminal .
